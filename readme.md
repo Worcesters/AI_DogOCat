@@ -16,4 +16,4 @@ Pour lancer l'application
 - Vous pouvez desormais acceder à votre application avec l'url suivante : http://127.0.0.1:8000/
 
 
-## Attention cette application n'a pour but seul la reconnaissance entre chat/chien upload d'autres images n'a pas de sens.
+## Attention cette application n'a pour seul but la reconnaissance entre chat/chien upload d'autres images n'a pas de sens.
