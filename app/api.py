@@ -5,6 +5,7 @@ from .models import History
 
 
 def load_image(request):
+
     if request.method == 'POST':
         import re
         import base64
