@@ -261,7 +261,7 @@ body {
 	background: blue;
 	padding: 3rem 0 3rem 3rem;
 	width: 70vw;
-	height: 90vh;
+	/*height: 90vh;*/
 	background: hsla(0, 0%, 100%, .375);
 	box-shadow: 0 .75rem 2rem 0 rgba(0, 0, 0, .1);
 	border-radius: 2rem;
@@ -353,7 +353,7 @@ body {
 
 #successView .overlay__inner__content__image-preview__wrapper__image img {
 	height: 100%;
-	width: 15vw;
+	/*width: 15vw;*/
 	object-fit: inherit;
 }
 
