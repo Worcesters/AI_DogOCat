@@ -24,7 +24,7 @@ Vous pouvez trouver l'algorithme de création du modèle dans le document jupite
 ## Important
 Suite a des problèmes de stockage sur git lfs qui resulte d'un poids élevé du modèle veuillez suivre ces quelques étapes.
 
-- rendez vous sur ce lien et telecharger le dossier dogs_vs_cats -> https://e1.pcloud.link/publink/show?code=kZksL8Zfuvh8VuzigXDxfwm9COeRLnqSvvk
+- rendez vous sur ce lien et telecharger le dossier ##models -> https://e1.pcloud.link/publink/show?code=kZksL8Zfuvh8VuzigXDxfwm9COeRLnqSvvk
 
 - remplacer le dossier existant du même nom par celui telecharger
 ( Dossier a remplacer => \AI_DogOCat\dogs_vs_cats\models )
