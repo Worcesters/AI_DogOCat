@@ -27,3 +27,4 @@ Suite a des problème de stockage du au poids du modèle veuillez suivre ces que
 - rendez vous sur ce lien et telecharger le dossier dogs_vs_cats -> https://e1.pcloud.link/publink/show?code=kZksL8Zfuvh8VuzigXDxfwm9COeRLnqSvvk
 
 - remplacer le dossier existant du même nom par celui telecharger
+( Dossier a remplacer => \AI_DogOCat\dogs_vs_cats\models )
