@@ -24,5 +24,6 @@ Vous pouvez trouver l'algorithme de création du modèle dans le document jupite
 ## Important
 Suite a des problème de stockage du au poids du modèle veuillez suivre ces quelques étapes.
 
-1- rendez vous sur ce lien et telecharger le dossier dogs_vs_cats -> https://cloud.degoo.com/share/DIQ_ahCJLYk_JbGJm5w3vQ
-2- remplacer le dossier existant du même nom par celui telecharger
+- rendez vous sur ce lien et telecharger le dossier dogs_vs_cats -> https://cloud.degoo.com/share/DIQ_ahCJLYk_JbGJm5w3vQ
+
+- remplacer le dossier existant du même nom par celui telecharger
