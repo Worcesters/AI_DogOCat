@@ -13,7 +13,7 @@ Pour lancer l'application
 
 - Executer la commande : >python manage.py runserver
 
-- Vous pouvez desormais acceder à votre application avec l'url suivante : http://127.0.0.1:8000/
+- Vous pouvez desormais acceder à votre application avec l'url suivante : http://127.0.0.1:8000/app
 
 
 ## Attention cette application n'a pour seul but la reconnaissance entre chat/chien upload d'autres images n'a pas de sens.
