@@ -17,3 +17,6 @@ Pour lancer l'application
 
 
 ## Attention cette application n'a pour seul but la reconnaissance entre chat/chien upload d'autres images n'a pas de sens.
+
+
+# Vous pouvez trouver l'algorithme de création du modèle dans le document jupiter nommer traitement2 dans app\traitement2
