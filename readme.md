@@ -22,7 +22,7 @@ Pour lancer l'application
 Vous pouvez trouver l'algorithme de création du modèle dans le document jupiter nommer traitement2 dans app\traitement2
 
 ## Important
-Suite a des problème de stockage du au poids du modèle veuillez suivre ces quelques étapes.
+Suite a des problèmes de stockage sur git lfs qui result d'un poids élevé du modèle veuillez suivre ces quelques étapes.
 
 - rendez vous sur ce lien et telecharger le dossier dogs_vs_cats -> https://e1.pcloud.link/publink/show?code=kZksL8Zfuvh8VuzigXDxfwm9COeRLnqSvvk
 
